@@ -1,0 +1,109 @@
+/* Set default font styles */
+body {
+    font-family: 'Times New Roman', serif;
+    font-size: 18px;
+    line-height: 1.5;
+    background-color: lightblue; /* Change background color to light blue */
+}
+
+/* Style the header */
+h1 {
+    font-family: 'Impact', sans-serif;
+    font-size: 48px;
+    text-align: center;
+}
+
+/* Style the subheader */
+h2 {
+    font-family: 'Times New Roman', serif;
+    font-size: 36px;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Times New Roman', serif;
+    font-size: 20px;
+    text-align: center;
+    }
+
+h4  {
+        text-align: justify;
+        font-family: 'Times New Roman', serif;
+        font-weight: bold;
+        margin: 2em auto;
+        max-width: 800px;
+    }
+
+h5  {
+        text-align: justify;
+        font-family: 'Times New Roman', serif;
+        font-weight: bold;
+        font-style: italic;
+        margin: 2em auto;
+        max-width: 800px;
+    }
+
+p {
+    text-align: justify;
+    margin: 2em auto;
+    max-width: 800px;
+}
+
+    /* Style the link when hovered over */
+    h3 a:hover {
+    text-decoration: underline;
+    }
+
+/* Style the image */
+img {
+    display: block;
+    margin: auto;
+    width: 600px; 
+    border-radius: 10px;
+}
+
+/* Style the main content paragraph */
+p {
+    text-align: justify;
+    margin: 2em auto;
+    max-width: 800px;
+}
+
+li {
+    text-align: justify;
+    margin: 2em auto;
+    max-width: 800px;
+}
+
+/* Style the link */
+a {
+    display: block;
+    text-align: center;
+    margin: 2em auto;
+    font-weight: bold;
+    color: #0077cc;
+    text-decoration: none;
+    border-bottom: 2px solid #0077cc;
+    padding-bottom: 2px;
+}
+
+/* On hover, underline the link */
+a:hover {
+    border-bottom: 2px solid #003d99;
+}
+
+div {
+    font-family: 'Times New Roman', serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+
+.bg{
+    background-color:  #feecc8;
+    background-size: contain;
+    margin: 0 auto;
+    width: 1250px;
+    border-radius: 10px;
+    opacity: .85;
+}
